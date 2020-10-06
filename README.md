@@ -1,2 +1,3 @@
 # Agenda-Telefonica
-Esboço de uma agenda tefefônica para android, com camada direta.
+Esboço de uma agenda tefefônica para android, com chamada direta.
+Criação inicial para ambientação com o desenvolvimento para android.
